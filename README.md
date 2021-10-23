@@ -14,7 +14,7 @@ If you don't already, first get:
 ShadowFBrute:
 
 ```bash
-git clone https://github.com/m-primo/Facebook-Brute-Force
+git clone https://github.com/shadow-sec/ShadowFBrute.git
 ```
 ```bash 
 cd ShadowFBrute

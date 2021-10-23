@@ -30,9 +30,11 @@ pip install -r reqs.txt
 python3 sfb.py
 ```
 -> [?] Password List Filename: sfblist.txt
+
 (You can add passwords to default sfblist.txt found in main folder or add your own .txt file)
 
 -> [?] Email or Phone#: target@email.com or phone-number
+
 Done! Now wait for the results :)
 
 - Additionally all finished sessions are saved in logging.log with results.

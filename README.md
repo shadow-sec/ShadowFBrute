@@ -24,20 +24,33 @@ pip install -r reqs.txt
 ```
 
 
-# Usage
+# Fast Interface Usage
 - Open Interface:
 ```bash
 python3 sfb.py
 ```
--> [?] Password List Filename: sfblist.txt
+---> [?] Password List Filename: sfblist.txt
 
 (You can add passwords to default sfblist.txt found in main folder or add your own .txt file)
 
--> [?] Email or Phone#: target@email.com or phone-number
+---> [?] Email or Phone#: target@email.com or phone-number
 
-Done! Now wait for the results :)
+Done! Now wait for the results :) Additionally all finished sessions are saved in logging.log with results & other info.
 
-- Additionally all finished sessions are saved in logging.log with results.
+- Command Line Usage:
+{To use password list}
+You can ignore the -l (log) argument.
+```bash
+python3 sfb.py -u <Email or Phone#> -p <UrPassList.txt> -l <Name_ur_Log_File>
+```
+{To use a single password}
+```bash 
+python3 sfb.py -u <Email or Phone#> -sp <ThePassword> -l <Name_ur_Log_File>
+```
+{To get help message}
+```bash
+python3 sfb.py -h
+```
 
 
 # Disclaimer

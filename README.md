@@ -9,7 +9,7 @@ Issues:
 - Attacking the same account multiple times in a row will result in block giving this error similar to this plus others:
 [Python] requests.exceptions.TooManyRedirects: Exceeded 30 redirects or other error
 - Solution?
-Only attempt to brute force a single account once every hour or so if no password from list isn't found. If you already have errors you'll need to restart and wait as your connection is blocked or reset IP and use a VPN and wait at least 15min to try again. 
+Only attempt to brute force a single account once every hour or so if no password from list isn't found. If you already have errors you'll need to restart and wait as your connection is blocked or reset IP and use a VPN and wait at least 15min to try again. Btw you should always use a VPN regarless of activity :P
 
 
 # Screenshots

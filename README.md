@@ -4,7 +4,9 @@ This easy to use, but yet powerful script will brute force logins on Facebook us
 
 
 # Screenshots
-![](https://ibb.co/FByXSB7)
+![SFB](https://user-images.githubusercontent.com/76797159/138580160-3c87750b-4484-45f6-b0e6-4238b31b8df4.png)
+
+![SFB3](https://user-images.githubusercontent.com/76797159/138580170-189859cf-779f-4b8e-aa68-86094e234f78.png)
 
 # Installation & Setup
 If you don't already, first get:

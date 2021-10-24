@@ -1,6 +1,8 @@
 # ShadowFBrute
 This easy to use, but yet powerful script will brute force logins on Facebook using a list of passwords. Every wrong attempt will change the proxy used, and every 5 attempts Cookies and Headers.
 
+![SFB](https://user-images.githubusercontent.com/76797159/138580401-31772d43-b587-448e-800d-feb317dfb23c.png)
+![SFB](https://user-images.githubusercontent.com/76797159/138580411-3dd88d9a-5b4c-40be-86e6-74a29868b464.png)
 
 
 # Screenshots

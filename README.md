@@ -1,12 +1,9 @@
 # ShadowFBrute
 This easy to use, but yet powerful script will brute force logins on Facebook using a list of passwords. Every wrong attempt will change the proxy used, and every 5 attempts Cookies and Headers.
 
+# Screenshots
 ![SFB](https://user-images.githubusercontent.com/76797159/138580401-31772d43-b587-448e-800d-feb317dfb23c.png)
 ![SFB](https://user-images.githubusercontent.com/76797159/138580411-3dd88d9a-5b4c-40be-86e6-74a29868b464.png)
-
-
-# Screenshots
-
 
 # Installation & Setup
 If you don't already, first get:
@@ -41,7 +38,7 @@ Done! Now wait for the results :) Additionally all finished sessions are saved i
 
 - Command Line Usage:
 {To use password list}
-You can ignore the -l (log) argument.
+You can ignore the -l (log) argument for default logging file.
 ```bash
 python3 sfb.py -u <Email or Phone#> -p <UrPassList.txt> -l <Name_ur_Log_File>
 ```
@@ -49,11 +46,9 @@ python3 sfb.py -u <Email or Phone#> -p <UrPassList.txt> -l <Name_ur_Log_File>
 ```bash 
 python3 sfb.py -u <Email or Phone#> -sp <ThePassword> -l <Name_ur_Log_File>
 ```
-{To get help message}
+{To show help message}
 ```bash
 python3 sfb.py -h
 ```
-
-
 # Disclaimer
 THIS REPOSITORY AND SCRIPTS INCLUDED IN IT IS FOR EDUCATIONAL, TESTING, AND RESEARCH PURPOSES ONLY! THE OWNER/CREATOR NOR ANY CONTRIBUTOR IS NOT RESPONSIBLE FOR YOUR ACTIONS.
